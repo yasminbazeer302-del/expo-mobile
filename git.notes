@@ -1,0 +1,9 @@
+go to git
+cretate repositary
+
+p> git init
+
+
+copy git remote add origin https://github.com/yasminbazeer302-del/expo-mobile.git
+git branch -M main
+git push -u origin main
